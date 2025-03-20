@@ -1,6 +1,6 @@
 # Text-Based Tic-Tac-Toe Game in C++
 
-A console-based Tic-Tac-Toe game implemented in C++. This project was developed as a semester 1 assignment and showcases basic C++ programming concepts, including file handling, user input validation, and AI logic.
+A console-based Tic-Tac-Toe game implemented in C++. This project was developed as assignment and showcases basic C++ programming concepts, including file handling, user input validation, and AI logic.
 
 ## Features
 - *Login System*: Users can log in or register to play the game.
