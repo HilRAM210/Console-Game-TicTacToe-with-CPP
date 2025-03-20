@@ -10,8 +10,3 @@ A console-based Tic-Tac-Toe game implemented in C++. This project was developed 
   - *Hard*: Uses the Minimax algorithm for optimal moves.
 - *Player vs Player Mode*: Play against a friend on the same device.
 - *User Data Storage*: Usernames and passwords are stored in a text file (userdata.txt).
-
-## How to Run
-1. *Clone the repository*:
-   ```bash
-   git clone https://github.com/your-username/text-based-tictactoe.git
